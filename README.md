@@ -34,7 +34,7 @@ Compatibility
 Dependency
 ----------
 
-- To load thes plugins and add it to the configuration the extension [[TinyMcePluginLoader]](https://github.com/cliffparnitzky/TinyMcePluginLoader) has to be installed.
+- All dependent plugins from [TinyMceBundleClassic](https://github.com/cliffparnitzky/TinyMceBundleClassic) have to be installed.
 
 
 Screenshot
