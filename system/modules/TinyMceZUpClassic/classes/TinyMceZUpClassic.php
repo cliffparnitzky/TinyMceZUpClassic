@@ -46,10 +46,10 @@ class TinyMceZUpClassic {
 	 */
 	public function editTinyMcePluginLoaderConfig ($arrTinyConfig) {
 		
-		$arrTinyConfig["menubar"] = "false";
-		$arrTinyConfig["toolbar1"] = '"newdocument | anchor | link unlink | image | subscript superscript | abbr | searchreplace  | undo redo | removeformat | code"';
-		$arrTinyConfig["toolbar2"] = '"formatselect fontsizeselect styleselect | bold italic underline | alignleft aligncenter alignright alignjustify | bullist numlist indent outdent | forecolor backcolor"';
-		$arrTinyConfig["toolbar3"] = '"table | template | blockquote | charmap emoticons"';
+		$arrTinyConfig["menubar"] = 'false,';
+		$arrTinyConfig["toolbar1"] = '"newdocument | anchor | link unlink | image | subscript superscript | abbr | searchreplace  | undo redo | removeformat | code",';
+		$arrTinyConfig["toolbar2"] = '"formatselect fontsizeselect styleselect | bold italic underline | alignleft aligncenter alignright alignjustify | bullist numlist indent outdent | forecolor backcolor",';
+		$arrTinyConfig["toolbar3"] = '"table | template | blockquote | charmap emoticons",';
 		$arrTinyConfig["fontsize_formats"] = '"9px 10px 11px 12px 13px 14px 15px 16px 17px 18px 19px 20px 21px 22px 23px 24px",';
 		
 		return $arrTinyConfig;
