@@ -28,7 +28,7 @@ Compatibility
 -------------
 
 - min. Contao version: >= 3.3.0
-- max. Contao version: <  3.5.0
+- max. Contao version: <  3.6.0
 
 
 Dependency
@@ -41,3 +41,26 @@ Screenshot
 ----------
 
 ![Screenshot](screenshot.jpg)
+
+
+Additional information
+----------------------
+
+### Special notes
+
+There is nothing special to pay attention to.
+
+### Information in the wiki
+
+#### Create a new ...
+
+* [Creating a new plugin](https://github.com/cliffparnitzky/TinyMcePluginLoader/wiki/Creating-a-new-plugin)
+* [Creating a new bundle](https://github.com/cliffparnitzky/TinyMcePluginLoader/wiki/Creating-a-new-bundle)
+* [Creating a new setup](https://github.com/cliffparnitzky/TinyMcePluginLoader/wiki/Creating-a-new-setup)
+
+#### Installation hints
+* [Install manually](https://github.com/cliffparnitzky/TinyMcePluginLoader/wiki/Install-manually)
+
+#### Bug report hints
+
+* [Report a bug](https://github.com/cliffparnitzky/TinyMcePluginLoader/wiki/Report-a-bug)
