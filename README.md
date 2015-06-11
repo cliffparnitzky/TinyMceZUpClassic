@@ -48,7 +48,7 @@ Additional information
 
 ### Special notes
 
-There is nothing special to pay attention to.
+It is not possible to use several setups at the same time. If more than one setup is installed, one may only be active in the system settings.
 
 ### Information in the wiki
 
