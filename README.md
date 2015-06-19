@@ -5,7 +5,7 @@
 Contao Extension: TinyMceZUpClassic
 ===================================
 
-Special TinyMCE setup which creates the toolbars known from TinyMCE 3.
+Special TinyMCE setup which creates the toolbars and applies the settings known from TinyMCE 3.
 
 For more information see [TinyMcePluginLoader](https://github.com/cliffparnitzky/TinyMcePluginLoader).
 
